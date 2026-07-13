@@ -67,13 +67,13 @@ Smart-Hospital-Room-System/
 ![IV Monitoring](Images/IV-LOW.png)
 
 ### Nurse Call
-![Nurse Call](Images/Nurse-Call.png)
+![Nurse Call](Images/Nurse-call.png)
 
 ### Temperature Control
-![Temperature Control](Images/Temperature-Control.png)
+![Temperature Control](Images/Temperature-control.png)
 
 ### Circuit Design
-![Circuit](Images/Circuit.png)
+![Circuit](Images/The-circuit.png)
 
 ---
 
